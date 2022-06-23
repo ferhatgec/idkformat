@@ -1,0 +1,3 @@
+[submodule "test/gechtest"]
+	path = test/gechtest
+	url = https://github.com/ferhatgec/gechtest
